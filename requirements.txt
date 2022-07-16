@@ -1,0 +1,9 @@
+h5py==3.7.0
+ipykernel==6.13.0
+jupyter==1.0.0
+keras==2.9.0
+librosa==0.9.1
+opencv-python==4.5.5.64
+python-speech-features==0.6
+seaborn==0.11.2
+soundfile==0.10.3.post1
